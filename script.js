@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', function () {
     var scroller = scrollama();
     var images = [
         "carte.svg",
-        "https://via.placeholder.com/600x400/00FFFF/808080?text=2",
+        "/workspaces/ThiernoMbengue.github.io/AdobeStock1.svg",
         "pieHuile.svg",
         "https://via.placeholder.com/600x400/FF0000/808080?text=4",
         "https://via.placeholder.com/600x400/00FFFF/808080?text=5",
